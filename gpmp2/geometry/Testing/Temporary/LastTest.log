@@ -1,0 +1,60 @@
+Start testing: Jul 19 21:55 CST
+----------------------------------------------------------
+1/3 Testing: testDynamicVector
+1/3 Test: testDynamicVector
+Command: "/home/zhjd/work/gpmp2/build/gpmp2/geometry/testDynamicVector"
+Directory: /home/zhjd/work/gpmp2/build/gpmp2/geometry
+"testDynamicVector" start time: Jul 19 21:55 CST
+Output:
+----------------------------------------------------------
+Not equal:
+expected:
+1
+2
+3
+actual:
+4
+5
+6
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testDynamicVector" end time: Jul 19 21:55 CST
+"testDynamicVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: testPose2Vector
+2/3 Test: testPose2Vector
+Command: "/home/zhjd/work/gpmp2/build/gpmp2/geometry/testPose2Vector"
+Directory: /home/zhjd/work/gpmp2/build/gpmp2/geometry
+"testPose2Vector" start time: Jul 19 21:55 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2Vector" end time: Jul 19 21:55 CST
+"testPose2Vector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: testProductDynamicLieGroup
+3/3 Test: testProductDynamicLieGroup
+Command: "/home/zhjd/work/gpmp2/build/gpmp2/geometry/testProductDynamicLieGroup"
+Directory: /home/zhjd/work/gpmp2/build/gpmp2/geometry
+"testProductDynamicLieGroup" start time: Jul 19 21:55 CST
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testProductDynamicLieGroup" end time: Jul 19 21:55 CST
+"testProductDynamicLieGroup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 19 21:55 CST
